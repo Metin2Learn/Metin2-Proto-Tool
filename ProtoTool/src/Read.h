@@ -5,7 +5,7 @@
 #include <iostream>
 #include <filesystem>
 #include "ProtoTool.h"
-
+#include <sstream>
 // https://github.com/nlohmann/json
 #include <nlohmann/json.hpp>
 using json = nlohmann::json;
